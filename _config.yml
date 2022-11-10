@@ -1,0 +1,12 @@
+title: Experimental Cognition Laboratory
+email: ecl-ucb@berkeley.edu
+domain: ecl-ucb.github.io
+logo: /assets/squaretree.png
+baseurl: ""
+url: https://ecl-ucb.github.io
+twitter_username: jekyllrb
+github_username:  jekyll
+remote_theme: pages-themes/minimal@v0.2.0
+repository: ecl-ucb/ecl-ucb.github.io
+plugins:
+  - jekyll-feed

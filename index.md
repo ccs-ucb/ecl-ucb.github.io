@@ -3,9 +3,11 @@ layout: default
 ---
 
 ## Research Summary
+What makes human intelligence so open-ended and creative? One possibility is that human social learning allows each of us to acquire richly-structured conceptual systems accumulated over time by our social groups and our ancestors to simplify the complexities of the world into efficient abstractions that help us think and communicate. Our goal at the Experimental Cognition Laboratory is to understand this aspect of human cognition in computational terms.
+
 Our research combines experimental psychology with machine learning and computational modeling to study how knowledge is transmitted from person to person. We use this approach to better understand fundamental aspects of human intelligence such as reasoning, meta-cognition, and language. 
 
-The goal of the Experimental Cognition Laboratory is to create a community where people from all backgrounds can engage with the methods of computational cognitive science, and apply these tools to today's problems in science and technology. If you are interested in joining or visiting the lab, please get in touch at <a href="mailto:ecl-ucb@berkeley.edu">ecl-ucb@berkeley.edu</a>.    
+The aim of the Experimental Cognition Laboratory is to create a community where people from all backgrounds can engage with the methods of computational cognitive science, and apply these tools to today's problems in science and technology. If you are interested in joining or visiting the lab, please get in touch at <a href="mailto:ecl-ucb@berkeley.edu">ecl-ucb@berkeley.edu</a>.    
 
 
 <h2>Selected Publications</h2>

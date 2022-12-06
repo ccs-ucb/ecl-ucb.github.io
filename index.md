@@ -3,11 +3,9 @@ layout: default
 ---
 
 ## Research Summary
-What makes human intelligence so open-ended and creative? One possibility is that human social learning allows each of us to acquire richly-structured conceptual systems accumulated over time by our social groups and our ancestors to simplify the complexities of the world into efficient abstractions that help us think and communicate. Our goal at the Experimental Cognition Laboratory is to understand this aspect of human cognition in computational terms.
+A deeper understanding of cognition has the potential to transform society. At the Experimental Cognition Laboratory, we conduct basic interdisciplinary research in computational cognitive science. We study the cognitive algorithms that allow people to make discoveries, learn from others, communicate knowledge creatively, and reason about each other’s minds. The goal of our research is to better incorporate the richness of human social interaction into computational theories of intelligence and emerging technologies. 
 
-Our research combines experimental psychology with machine learning and computational modeling to study how knowledge is transmitted from person to person. We use this approach to better understand fundamental aspects of human intelligence such as reasoning, meta-cognition, and language. 
-
-The aim of the Experimental Cognition Laboratory is to create a community where people from all backgrounds can engage with the methods of computational cognitive science, and apply these tools to today's problems in science and technology. If you are interested in joining or visiting the lab, please get in touch at <a href="mailto:ecl-ucb@berkeley.edu">ecl-ucb@berkeley.edu</a>.    
+Our approach integrates perspectives from psychology, computer science, linguistics, and cultural evolution, with a focus on the development of methods that combine advances in machine learning with large-scale behavioral data. We are committed to the development of knowledge that benefits society and contributes to the challenge of addressing collective action problems such as the climate crisis and ethical integration of artificial intelligence into society. If you are interested in joining or visiting the lab, please get in touch at <a href="mailto:ecl-ucb@berkeley.edu">ecl-ucb@berkeley.edu</a>.    
 
 
 <h2>Selected Publications</h2>

@@ -15,7 +15,7 @@ Our approach integrates perspectives from psychology, computer science, linguist
 <p>Thompson, B., Roberts, S. G., & Lupyan, G. (2020). <a href="https://www.nature.com/articles/s41562-020-0924-8">Cultural influences on word meanings revealed through large-scale semantic alignment.</a> <i>Nature Human Behaviour</i>, <i>4</i>(10), 1029-1038. 
 <br>[hear about this paper on the <a href="https://manyminds.libsyn.com/lost-in-translation">Many minds podcast</a>]</p>
 
-<p>Hardy, M.<D class="sup">*</D>, Thompson, B.<D class="sup">*</D>, Krafft, P.M., Griffiths, T.L. (preprint). <a href="https://arxiv.org/abs/2208.07261">Bias amplification in experimental social networks is reduced by resampling.</a> <i>Arxiv preprint <a href="arXiv:2208.07261">arXiv:2208.07261</a></i></p>
+<p>Hardy, M.<D class="sup">*</D>, Thompson, B.<D class="sup">*</D>, Krafft, P.M., Griffiths, T.L. (2023). <a href="https://www.nature.com/articles/s41562-023-01715-5">Resampling reduces bias amplification in experimental social networks</a> <i>Nature Human Behaviour <a href="arXiv:2208.07261">Preprint: arXiv:2208.07261</a></i></p>
 
 
 <h2>Full Publication List</h2>
